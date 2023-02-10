@@ -12,7 +12,7 @@ Spring boot project with the next dependencies / starters:
 Rest API application with access to mysql database.
 
 
-## Movie Model
+## Movie Entity
 
 1. Movie
 2. MovieDao

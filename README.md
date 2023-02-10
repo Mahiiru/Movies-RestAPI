@@ -20,3 +20,7 @@ Rest API application with access to mysql database.
 4. MovieController
     1. Find all movies
     2. Find movie by id
+
+## Swagger URL
+
+http://localhost:8080/swagger-ui.html

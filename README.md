@@ -10,6 +10,7 @@ Spring boot project with the next dependencies / starters:
 * Springdoc openapi webmvc ui
 
 Rest API application with access to mysql database.
+Swagger documentation.
 
 
 ## Movie Entity
